@@ -86,7 +86,7 @@ reaction_on_message_received = false
 
 [UI]
 # Name of the assistant.
-name = "Assistant"
+name = "Meal Advisor - Powered by AgentAI and RAG"
 
 # default_theme = "dark"
 
@@ -95,7 +95,7 @@ name = "Assistant"
 # default_sidebar_state = "open"
 
 # Description of the assistant. This is used for HTML tags.
-# description = ""
+# description = "Your AI breakfast advisor using AgentAI + RAG"
 
 # Chain of Thought (CoT) display mode. Can be "hidden", "tool_call" or "full".
 cot = "full"
